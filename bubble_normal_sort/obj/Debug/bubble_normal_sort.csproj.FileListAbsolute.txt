@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\bin\Debug\bubble_normal_sort.exe.config
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\bin\Debug\bubble_normal_sort.exe
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\bin\Debug\bubble_normal_sort.pdb
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.Form1.resources
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.Properties.Resources.resources
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.exe
+C:\Users\Админ\source\repos\bubble_normal_sort\bubble_normal_sort\obj\Debug\bubble_normal_sort.pdb
